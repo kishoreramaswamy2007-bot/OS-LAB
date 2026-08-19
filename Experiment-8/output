@@ -1,0 +1,18 @@
+Enter Number of Processes: 3
+Enter Number of Resource Types: 3
+
+Enter Allocation Matrix:
+1 0 0
+0 1 0
+0 0 1
+
+Enter Request Matrix:
+0 0 0
+0 0 0
+0 0 0
+
+Enter Available Resources:
+1 1 1
+
+Deadlocked Processes:
+No Deadlock Detected
